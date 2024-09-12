@@ -76,7 +76,7 @@ plt.show()
 ```
 
 ### Results
-![Concentration of Electric Vehicles by Utility Provider](Images\Concentration_of_Electric_Vehicles_by_Utility_Provider.png)
+![Concentration of Electric Vehicles by Utility Provider](Images/Concentration_of_Electric_Vehicles_by_Utility_Provider.png)
 *Bar graph visualizing the concentration of EVs by Utility Provider.*
 
 ### Insights
