@@ -97,7 +97,7 @@ View my notebook with detailed steps here:
 ![Top 10 Most Popular Electric Vehicle Makes](Project_EVs/Images/Top_10_Most_Popular_Electric_Vehicle_Makes.png)
 *Bar graph visualizing the most popular companies producing EVs in Washington state.*
 
-![Top 10 Most Popular Electric Vehicle Makes](Project_EVs/mages/Top_10_Most_Popular_Electric_Vehicle_Models.png)
+![Top 10 Most Popular Electric Vehicle Makes](Project_EVs/Images/Top_10_Most_Popular_Electric_Vehicle_Models.png)
 *Bar graph visualizing the most popular Electric Vehicle models in Washington state.*
 
 ### Insights
