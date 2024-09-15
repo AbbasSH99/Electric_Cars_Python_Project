@@ -34,7 +34,7 @@ consumers and other parties interested in the evolution of the electric vehicle 
 
 To find the trend of Electric Vehicles popularity overtime. I grouped the data by 'Model Year' and 'Electric Vehicle Type' and counted the vehichles for each year. This query shows how the adoption of EVs evolved over the years and what type of vehicles are more popular.
 
-View my notebook with detailed steps here: [2_Trends_in_EV_Adoption.ipynb](2_Trends_in_EV_Adoption.ipynb)
+View my notebook with detailed steps here: [2_Trends_in_EV_Adoption.ipynb](Project_EVs/2_Trends_in_EV_Adoption.ipynb)
 
 ### Visualization Results
 
