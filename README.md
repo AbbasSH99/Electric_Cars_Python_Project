@@ -38,10 +38,10 @@ View my notebook with detailed steps here: [2_Trends_in_EV_Adoption.ipynb](Proje
 
 ### Visualization Results
 
-![Visualization for Trends in EV Adoption](Images/Trends_in_EV_Adoption.png)
+![Visualization for Trends in EV Adoption](Project_EVs/Images/Trends_in_EV_Adoption.png)
 
 #### Zoomed In Visualization (From 2010 and Up)
-![Visualization for Trends in EV Adoption from Year 2010 and Up](Images/Trends_in_EV_Adoption_Zoomed_In.png)
+![Visualization for Trends in EV Adoption from Year 2010 and Up](Project_EVs/Images/Trends_in_EV_Adoption_Zoomed_In.png)
 
 ### Insights
 
@@ -54,7 +54,7 @@ View my notebook with detailed steps here: [2_Trends_in_EV_Adoption.ipynb](Proje
 To analyze the concentration of electric vehicles (EVs) among electric utility providers, I extracted the names of providers from the dataset, grouped the data by provider, and counted the number of vehicles associated with each. I then focused on the two providers with the highest EV concentrations, grouping all others into a single category. This analysis allowed for a clear comparison of EV concentrations among the identified providers.
 
 View my notebook with detailed steps here:
-[Impact_of_Electric_Utility_Providers](3_Impact_of_Electric_Utility_Providers.ipynb)
+[Impact_of_Electric_Utility_Providers](Project_EVs/3_Impact_of_Electric_Utility_Providers.ipynb)
 
 ### Visualize the Data
 ```python
@@ -76,7 +76,7 @@ plt.show()
 ```
 
 ### Results
-![Concentration of Electric Vehicles by Utility Provider](Images/Concentration_of_Electric_Vehicles_by_Utility_Provider.png)
+![Concentration of Electric Vehicles by Utility Provider](Project_EVs/Images/Concentration_of_Electric_Vehicles_by_Utility_Provider.png)
 *Bar graph visualizing the concentration of EVs by Utility Provider.*
 
 ### Insights
@@ -90,14 +90,14 @@ plt.show()
 To identify the most popular car makes and models, I initially segmented the data by the 'Make' column to determine the relative popularity of different automotive manufacturers. Subsequently, I grouped the data by both 'Make' and 'Model' to pinpoint the specific vehicles that are most favored in Washington state. This analysis provides valuable insights into the preferences for electric vehicles among Washington residents.
 
 View my notebook with detailed steps here:
-[Electric_Vehicle_Popularity_by_Make_and_Model](4_Electric_Vehicle_Popularity_by_Make_and_Model.ipynb)
+[Electric_Vehicle_Popularity_by_Make_and_Model](Project_EVs/4_Electric_Vehicle_Popularity_by_Make_and_Model.ipynb)
 
 ### Visualizations
 
-![Top 10 Most Popular Electric Vehicle Makes](Images/Top_10_Most_Popular_Electric_Vehicle_Makes.png)
+![Top 10 Most Popular Electric Vehicle Makes](Project_EVs/Images/Top_10_Most_Popular_Electric_Vehicle_Makes.png)
 *Bar graph visualizing the most popular companies producing EVs in Washington state.*
 
-![Top 10 Most Popular Electric Vehicle Makes](Images/Top_10_Most_Popular_Electric_Vehicle_Models.png)
+![Top 10 Most Popular Electric Vehicle Makes](Project_EVs/mages/Top_10_Most_Popular_Electric_Vehicle_Models.png)
 *Bar graph visualizing the most popular Electric Vehicle models in Washington state.*
 
 ### Insights
@@ -111,11 +111,11 @@ View my notebook with detailed steps here:
 To see which county has the highest number of EVs. First I grouped the data by county and arranged them form highest to lowest concentration. Then I extracted the top 10 counties with the highest EV consentration and visualized the data on a bar graph. This analysis provided insights about which counties in Washington State people are more inclined to buy EVs.
 
 View my notebook with detailed steps here:
-[lectric_Vehicle_Adoption_by_County](5_Electric_Vehicle_Adoption_by_County.ipynb)
+[lectric_Vehicle_Adoption_by_County](Project_EVs/5_Electric_Vehicle_Adoption_by_County.ipynb)
 
 ### Visualization
 
-![Top 10 Counties by Electric Vehicle Adoption](Images/Top_10_Counties_by_Electric_Vehicle_Adoption.png)
+![Top 10 Counties by Electric Vehicle Adoption](Project_EVs/Images/Top_10_Counties_by_Electric_Vehicle_Adoption.png)
 *Bar graph visualizing the counties in Washington state where Electric Vehicles are most popular.*
 
 ### Insights
